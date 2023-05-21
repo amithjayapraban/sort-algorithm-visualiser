@@ -149,7 +149,7 @@ export default function App() {
             handleHighlight(1);
           }}
         >
-          Insertion Sort
+          Selection Sort
         </button>
         <button
           className=" algo tracking-wide"
